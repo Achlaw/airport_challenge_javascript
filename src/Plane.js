@@ -1,1 +1,3 @@
-var Plane = function() {};
+function Plane() {
+  this._flying = true;
+};
